@@ -21,7 +21,7 @@ For the first assignment, you will begin creating the beginnings of your first w
 
 - Create a website with multiple pages that link together
 - Style a page using CSS via an external stylesheet
-- Add images to a website to improve SEO
+- Add images to a website
 - Clearly articulate your skills and experience on a landing page
 - Provide customers or site visitors with important contact and social media information in a format they're accustomed to
 
