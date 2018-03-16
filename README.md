@@ -54,7 +54,7 @@ For the first assignment, you will begin creating the beginnings of your first w
 
 ### Resources
 
-- Slides from [class 1](http://ga-students.github.io/fewd-dc-31/Week_01_Basics/01_html_basics/index.html) and [class 2](http://ga-students.github.io/fewd-dc-31/Week_01_Basics/02_css_basics/index.html).
+- Slides from [class 1](https://git.generalassemb.ly/pages/emasiello/fewd-dc-37/01_html_basics/#/) and [class 2](https://git.generalassemb.ly/pages/emasiello/fewd-dc-37/02_css_basics/#/).
 
 Here are examples of a simple "About" and "Portfolio" page that fulfill the assignment requirements:
 
